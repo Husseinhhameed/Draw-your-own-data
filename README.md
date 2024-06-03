@@ -16,7 +16,7 @@ DrawDataWidget is a Python library that enhances interactive learning and demons
 
 ## Install DrawDataWidget using pip:
 
-**python -m pip install drawdatawidget
+python -m pip install drawdatawidget
 
 
 ## Contact Me
